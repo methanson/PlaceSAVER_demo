@@ -1,6 +1,6 @@
 # PlaceSAVER: A Python Toolkit for CA1 Place Cell Analysis
 
-**PlaceSAVER** (Hippocampal CA1 **Place**cell **S**imulation, **A**nalysis, **V**isualization, of **E**ncoding, and **R**emapping). This Python toolkit provides capabilities for generating synthetic calcium imaging datasets, performing place cell analyses, and creating visualizations.
+**PlaceSAVER** (Hippocampal CA1 **Place** cell **S**imulation, **A**nalysis, and **V**isualization, of **E**ncoding and **R**emapping). This Python toolkit provides capabilities for generating synthetic calcium imaging datasets, performing place cell analyses, and creating visualizations.
 
 ---
 
