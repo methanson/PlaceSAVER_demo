@@ -99,10 +99,6 @@ Create publication-ready figures with:
 
 > **Technical Requirements**: Python 3.11+, scientific computing stack (pandas, numpy, scipy, sklearn, matplotlib, seaborn), optional advanced libraries (UMAP, statsmodels)
 
----
-
-## Project Structure
-
 ### Analysis Workflow
 
 1. **Data Generation** - Create synthetic datasets with known ground truth
