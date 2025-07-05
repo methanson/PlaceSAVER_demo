@@ -41,7 +41,7 @@ AAVs:
 ---
 
 #### Video 1: Video of lateral septum-projecting deep and superficial neurons
-https://github.com/user-attachments/assets/f46bb74f-e3a9-4426-b875-0283c101dee7
+https://github.com/user-attachments/assets/f1c86f49-3458-4f2c-8cc4-c03714d81f6e
 
 
 
