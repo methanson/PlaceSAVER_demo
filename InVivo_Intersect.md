@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document presents a novel approach for precisely identifying hippocampal CA1 neurons based on two criteria: **projection target specificity** (lateral septum vs. entorhinal cortex) and **anatomical sublayer location** (deep vs. superficial pyramidal layers).
+This document presents a novel approach for precisely identifying hippocampal CA1 neurons based on two criteria: **sublayer identity** (deep vs. superficial) and **projection target** (lateral septum vs. entorhinal cortex).
 
 ---
 
@@ -17,9 +17,6 @@ The CA1 pyramidal layer contains functionally distinct sublayers:
 CA1 pyramidal neurons may exhibit distinct functional properties based on their downstream projection targets:
 - **LS-projecting neurons**
 - **EC-projecting neurons**
-
-### Technical Innovation
-Traditional approaches identify neurons by either projection target OR anatomical location. Our dual labeling methodology simultaneously identifies both properties, revealing previously inaccessible neuronal subpopulations with unique functional profiles.
 
 ---
 
@@ -39,12 +36,12 @@ AAVs:
 ## Results
 
 ### Neuronal Population Identification
-
 #### Figure 1: Dual Labeling Visualization
-
+![Dual Labeling](images/dual_labeling.png)
 ---
 
 #### Video 1: Video of lateral septum-projecting deep and superficial neurons
+![Calcium Imaging Video](videos/LSprojecting_8xSpeed.mp4)
 
-
-#### Video 2: Video of entorhinal cortex-projecting deep and superficial neurons
+### Figure #2: Image of superficial lateral septum-projecting neurons
+![Calcium Imaging Max Projection](videos/video_maxprojects.png)
