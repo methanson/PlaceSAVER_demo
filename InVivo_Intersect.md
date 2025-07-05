@@ -44,4 +44,4 @@ AAVs:
 ![Calcium Imaging Video](videos/LSprojecting_8xSpeed.mp4)
 
 ### Figure #2: Image of superficial lateral septum-projecting neurons
-![Calcium Imaging Max Projection](videos/video_maxprojects.png)
+![Calcium Imaging Max Projection](images/video_maxprojects.png)
