@@ -13,13 +13,17 @@ This code simulates 5 main types of cells as a mouse runs along a virtual linear
 
 ## Simulated data examples
 
-#### Video 1: Simulating activity of 10 example neurons
+### Video 1: Simulating activity of 10 example neurons
 https://github.com/user-attachments/assets/9674ad2a-fc47-4b65-a496-e4902c762010
 
 
 
-#### Video 2: Simulating activity of 300 example neurons (both place and non-place cells)
+### Video 2: Simulating activity of 300 example neurons (both place and non-place cells)
 https://github.com/user-attachments/assets/60ebae7c-8e36-4871-9666-ff0ed2d90448
+
+
+#### Longer video (15 laps)
+https://drive.google.com/file/d/1lg1968eZ4rZbLGY5QOYlaOe_n9h687_H/view?usp=drivesdk
 
 
 
